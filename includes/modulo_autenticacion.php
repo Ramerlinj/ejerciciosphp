@@ -1,5 +1,6 @@
 <?php
 function login($usuario, $password) {
+    // Simulación de login
     return $usuario === "admin" && $password === "123456";
 }
 
