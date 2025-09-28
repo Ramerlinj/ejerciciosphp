@@ -1,0 +1,4 @@
+Contenido creado con file_put_contents
+Es más fácil para escribir todo de una vez
+Esta línea se agregó después
+Timestamp: 1759018422

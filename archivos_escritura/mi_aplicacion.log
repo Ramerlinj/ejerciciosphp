@@ -1,0 +1,5 @@
+[2025-09-28 02:13:42] [INFO] Aplicación iniciada
+[2025-09-28 02:13:42] [INFO] Usuario logueado | Contexto: {"usuario":"admin","ip":"192.168.1.1"}
+[2025-09-28 02:13:42] [WARNING] Intento de acceso a página restringida | Contexto: {"url":"\/admin\/config"}
+[2025-09-28 02:13:42] [ERROR] Error de conexión a base de datos | Contexto: {"host":"localhost","error":"Connection refused"}
+[2025-09-28 02:13:42] [INFO] Operación completada exitosamente

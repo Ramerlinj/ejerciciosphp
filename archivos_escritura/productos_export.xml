@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<datos><item><id>1</id><nombre>Laptop Gaming</nombre><precio>1299.99</precio><stock>15</stock></item><item><id>2</id><nombre>Mouse Inal&#xE1;mbrico</nombre><precio>29.99</precio><stock>50</stock></item><item><id>3</id><nombre>Teclado Mec&#xE1;nico</nombre><precio>89.99</precio><stock>30</stock></item><item><id>4</id><nombre>Monitor 4K</nombre><precio>399.99</precio><stock>8</stock></item></datos>

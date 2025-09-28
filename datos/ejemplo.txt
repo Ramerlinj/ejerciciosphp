@@ -1,0 +1,4 @@
+Esta es la línea 1 del archivo
+Esta es la línea 2 del archivo
+Esta es la línea 3 del archivo
+Archivo creado el: 2025-09-28 02:13:01

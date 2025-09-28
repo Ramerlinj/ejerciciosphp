@@ -28,25 +28,4 @@ echo "rtrim(): '" . rtrim($textoEspacios) . "'<br>";
 
 echo "<hr>";
 
-// Ejemplo 2: Conversión de mayúsculas y minúsculas
-echo "<h2>Ejemplo 2: Conversión de Mayúsculas/Minúsculas</h2>";
-
-$frase = "aprendiendo PHP es DIVERTIDO";
-
-echo "Texto original: '$frase'<br>";
-echo "strtoupper(): '" . strtoupper($frase) . "'<br>";
-echo "strtolower(): '" . strtolower($frase) . "'<br>";
-echo "ucfirst(): '" . ucfirst($frase) . "'<br>";
-echo "ucwords(): '" . ucwords($frase) . "'<br>";
-
-// Casos especiales
-$nombres = ["juan pérez", "ANA GARCÍA", "carlos RODRÍGUEZ"];
-
-echo "<br>Formateo de nombres:<br>";
-foreach ($nombres as $nombre) {
-    echo "Original: '$nombre' → Formatado: '" . ucwords(strtolower($nombre)) . "'<br>";
-}
-
-echo "<hr>";
-
 ?>

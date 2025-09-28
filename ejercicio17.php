@@ -27,25 +27,4 @@ echo "floor(): " . floor($negativo) . "<br>";
 
 echo "<hr>";
 
-// Ejemplo 2: Valor absoluto y signo
-echo "<h2>Ejemplo 2: Valor Absoluto y Funciones de Signo</h2>";
-
-$numeros = [15, -23, 0, -7.5, 42];
-
-foreach ($numeros as $num) {
-    echo "Número: $num<br>";
-    echo "  abs(): " . abs($num) . " (valor absoluto)<br>";
-    
-    if ($num > 0) {
-        echo "  Signo: Positivo<br>";
-    } elseif ($num < 0) {
-        echo "  Signo: Negativo<br>";
-    } else {
-        echo "  Signo: Cero<br>";
-    }
-    echo "<br>";
-}
-
-echo "<hr>";
-
 ?>
