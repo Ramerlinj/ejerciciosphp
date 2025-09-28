@@ -8,7 +8,7 @@
 
 echo "<h1>Ejercicio 10: IF Anidado</h1>";
 
-// Ejemplo 1: Sistema de calificaciones con múltiples criterios
+
 echo "<h2>Ejemplo 1: Sistema de Calificaciones</h2>";
 
 $nota = 85;
